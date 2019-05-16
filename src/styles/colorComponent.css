@@ -1,0 +1,46 @@
+.main_color{
+    width: 12%;
+    margin-top: 2%;
+    margin-left: 2%;
+    padding:4%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    display: flex;
+    position: relative;
+    color:white;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px #2b48368f;
+    transition: transform .2s;
+}
+.main_color:hover{
+    transform: scale(1.1);
+}
+.main_color span{
+ text-align: center;
+ color:white;
+}
+.main_color{
+    text-align: center;
+    color:white;
+    font-size:1vw
+   }
+.listOfColor{
+    width:100%;
+    height: auto;
+    display: flex;
+    flex-flow: wrap;
+    margin-bottom:3%;
+}
+.selecedColor{
+    width:100%;
+}
+.search_form{
+    width: 32%;
+     position: relative;
+    margin: 0 2%;
+}
+
+   
+
+
